@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html (Link of ASCII Table)
 int main() {
     char letter; int lettervalue;
     printf("Enter the character: ");
