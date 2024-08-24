@@ -15,3 +15,14 @@ Write a C program that takes an integer input N and uses a for loop to find the 
 Enter a number: 10
 Sum of first 10 natural numbers is: 55
 ```
+4. Print a Pattern
+Write a C program that uses a for loop to print the following pattern based on a given number of rows.
+```
+Input: Enter the how many rows you want: 5
+Output:
+*
+**
+***
+****
+*****
+```
