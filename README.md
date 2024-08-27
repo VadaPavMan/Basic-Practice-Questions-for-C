@@ -26,3 +26,5 @@ Output:
 ****
 *****
 ```
+5. Function Call
+Using Functions for Code Modularity: Write a C program that calculates the area of a rectangle and a circle. Create two separate functions: float areaRectangle(float length, float width) and float areaCircle(float radius). Call these functions in your main() function and print the results.
