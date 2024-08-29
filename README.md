@@ -31,3 +31,15 @@ Using Functions for Code Modularity: Write a C program that calculates the area 
 
 6. Factorial Calculation
 Problem: Write a recursive function to calculate the factorial of a given number n. The factorial of a number n (denoted as n!) is the product of all positive integers less than or equal to n. For example, 5! = 5 × 4 × 3 × 2 × 1 = 120.
+
+7. Fibonacci Sequence
+Problem: Write a recursive function to find the nth term in the Fibonacci sequence. The Fibonacci sequence is defined as follows:
+
+F(0) = 0, F(1) = 1
+F(n) = F(n-1) + F(n-2) for n > 1
+
+# Example
+```
+Input: n = 6
+Output: 8 (Sequence: 0, 1, 1, 2, 3, 5, 8)
+```
