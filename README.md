@@ -28,3 +28,6 @@ Output:
 ```
 5. Function Call
 Using Functions for Code Modularity: Write a C program that calculates the area of a rectangle and a circle. Create two separate functions: float areaRectangle(float length, float width) and float areaCircle(float radius). Call these functions in your main() function and print the results.
+
+6. Factorial Calculation
+Problem: Write a recursive function to calculate the factorial of a given number n. The factorial of a number n (denoted as n!) is the product of all positive integers less than or equal to n. For example, 5! = 5 × 4 × 3 × 2 × 1 = 120.
