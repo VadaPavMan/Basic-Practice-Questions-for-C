@@ -46,6 +46,11 @@ Output: 8 (Sequence: 0, 1, 1, 2, 3, 5, 8)
 
 8. Pointer Dereferencing.
 Create a pointer that points to a float variable y initialized with 5.5. Print the value of y using both the pointer and the variable name.
+- Output
+```
+The value of z using the variable: 5.5
+The value of z using the pointer: 5.5
+```
 
-9. Swapping Two Numbers: Using Pointers.
+10. Swapping Two Numbers: Using Pointers.
 Write a function swap(int *a, int *b) that takes two integer pointers as arguments and swaps their values. Use this function in the main() to swap two integers.
