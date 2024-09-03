@@ -52,8 +52,8 @@ The value of z using the variable: 5.5
 The value of z using the pointer: 5.5
 ```
 
-10. Swapping Two Numbers: Using Pointers.
+9. Swapping Two Numbers: Using Pointers.
 Write a function swap(int *a, int *b) that takes two integer pointers as arguments and swaps their values. Use this function in the main() to swap two integers.
 
-11. Change the value to ten time.
+10. Change the value to ten time.
 Write a program to change the variable to ten times of its current value. Using call-by reference.
