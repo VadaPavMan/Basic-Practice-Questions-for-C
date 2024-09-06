@@ -81,3 +81,5 @@ Maximum value: 9
 Minimum value: 1
 ```
 14. Create a program to reverse an array without using any additional arrays.
+15. Sum of Elements:
+- Write a program that takes 10 integers as input from the user and stores them in an array. Then, calculate and print the sum of all the elements.
