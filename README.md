@@ -61,3 +61,16 @@ Write a program to change the variable to ten times of its current value. Using 
 11. Write a program using a function which calculates the sum and average of two numbers. Use pointers and print the value of sum and average in main().
 
 12. Write a program to create an array of 10 integers and initialize it with values from 1 to 10. Print all the elements of the array.
+Output should be:
+```
+The element at index 0 is: 1
+The element at index 1 is: 2
+The element at index 2 is: 3
+The element at index 3 is: 4
+The element at index 4 is: 5
+The element at index 5 is: 6
+The element at index 6 is: 7
+The element at index 7 is: 8
+The element at index 8 is: 9
+The element at index 9 is: 10
+```
