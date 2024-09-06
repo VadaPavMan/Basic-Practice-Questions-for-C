@@ -74,3 +74,9 @@ The element at index 7 is: 8
 The element at index 8 is: 9
 The element at index 9 is: 10
 ```
+13. Write a function to find the maximum and minimum values in an integer array.
+- Example: array {7, 2, 5, 1, 9, 4}, the output will be:
+```
+Maximum value: 9
+Minimum value: 1
+```
