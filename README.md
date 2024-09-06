@@ -59,3 +59,5 @@ Write a function swap(int *a, int *b) that takes two integer pointers as argumen
 Write a program to change the variable to ten times of its current value. Using call-by reference.
 
 11. Write a program using a function which calculates the sum and average of two numbers. Use pointers and print the value of sum and average in main().
+
+12. Write a program to create an array of 10 integers and initialize it with values from 1 to 10. Print all the elements of the array.
