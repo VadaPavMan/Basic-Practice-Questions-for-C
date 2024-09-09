@@ -83,3 +83,10 @@ Minimum value: 1
 14. Create a program to reverse an array without using any additional arrays.
 15. Sum of Elements:
 - Write a program that takes 10 integers as input from the user and stores them in an array. Then, calculate and print the sum of all the elements.
+16. Create a program to print a checkerboard pattern using X and O characters using nested while loops. The board size should be n x n, where n is input by the user.
+Example for n = 3:
+```
+X O X
+O X O
+X O X
+```
