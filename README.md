@@ -90,3 +90,9 @@ X O X
 O X O
 X O X
 ```
+![image](https://github.com/user-attachments/assets/27fd64bd-5f58-409b-81c4-b4cd94715002)
+)
+```
+Example Output:
+* Result: 4.33
+```
