@@ -96,3 +96,15 @@ X O X
 Example Output:
 * Result: 4.33
 ```
+18. Student Grade Calculator
+Objective:
+Create a program that calculates the average grade of a group of students and identifies the highest and lowest grades.
+
+Requirements:
+
+Ask the user to input the number of students.
+Use an array to store the grades of the students.
+Calculate and display the following:
+- Average grade. **Average = Number of Students/Sum of Grades**
+- Highest grade. **Eg: Highest Grade=max(85,90,78)=90**
+- Lowest grade. **Eg: Lowest Grade=min(85,90,78)=78**
