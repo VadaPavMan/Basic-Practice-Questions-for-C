@@ -108,3 +108,19 @@ Calculate and display the following:
 - Average grade. **Average = Number of Students/Sum of Grades**
 - Highest grade. **Eg: Highest Grade=max(85,90,78)=90**
 - Lowest grade. **Eg: Lowest Grade=min(85,90,78)=78**
+
+19. Transpose of a Matrix
+Write a program to find the transpose of a 2x3 matrix. The program should read the elements of the matrix from the user, compute the transpose, and display the transposed matrix.
+Exmaple:
+```
+**Input:**
+Enter elements of Matrix (2x3):
+1 2 3
+4 5 6
+
+**Output:**
+Transpose of the Matrix:
+1 4
+2 5
+3 6
+```
