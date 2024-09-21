@@ -113,12 +113,12 @@ Calculate and display the following:
 Write a program to find the transpose of a 2x3 matrix. The program should read the elements of the matrix from the user, compute the transpose, and display the transposed matrix.
 Exmaple:
 ```
-**Input:**
+Input.
 Enter elements of Matrix (2x3):
 1 2 3
 4 5 6
 
-**Output:**
+Output.
 Transpose of the Matrix:
 1 4
 2 5
