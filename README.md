@@ -138,3 +138,12 @@ Output should be:
 5 x 9 = 45
 5 x 10 = 50
 ```
+21. String Length Calculation
+Write a C program to input a string from the user and calculate its length without using the **strlen** function.
+```
+Input:
+Enter a string: hello
+
+Output:
+The length of the string is: 5
+```
