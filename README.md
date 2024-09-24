@@ -147,3 +147,10 @@ Enter a string: hello
 Output:
 The length of the string is: 5
 ```
+22. Write a program for encryption and decryption of string provided by the user.
+Example:
+```
+Encrypted form of string: uijt!jt!nf
+
+Decrypted from of string: this is me
+```
