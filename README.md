@@ -208,3 +208,21 @@ ID: 102
 City: Los Angeles
 Pincode: 90001
 ```
+25. Typedef with Structures: Create a struct called Car with fields:
+
+- char model[50]
+- int year
+- float price
+
+Use typedef to rename the structure to Vehicle. Write a program to create two Vehicle objects and display their details.
+
+Output Eg:
+```
+The model name: Toyota Corolla
+The year of launch: 2015
+The price: $15000.20
+
+The model name: Honda Civic
+The year of launch: 2020
+The price: $20000.20
+```
