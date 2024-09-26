@@ -158,6 +158,7 @@ Decrypted from of string: this is me
 - char name[50]
 - int age
 - float gpa
+
 Then, create a function to print the details of the student and test it with at least two different students.
 Output Eg:
 ```
