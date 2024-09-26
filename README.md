@@ -171,3 +171,40 @@ Name: Jane Smith
 Age: 22
 GPA: 3.90
 ```
+24. Nested Structures: Write a C program that defines a struct for an Address with fields:
+- char city[50]
+- int pincode
+
+Then, define another struct called Employee that includes the following fields:
+- char name[50]
+- int id
+- Address (the nested struct)
+
+The program should allow user input for two employees' details and then print them.
+
+Output Should be:
+```
+Enter details for employee 1:
+Name: John Doe
+ID: 101
+City: New York
+Pincode: 10001
+
+Enter details for employee 2:
+Name: Jane Smith
+ID: 102
+City: Los Angeles
+Pincode: 90001
+
+Employee Details:
+Name: John Doe
+ID: 101
+City: New York
+Pincode: 10001
+
+Employee Details:
+Name: Jane Smith
+ID: 102
+City: Los Angeles
+Pincode: 90001
+```
