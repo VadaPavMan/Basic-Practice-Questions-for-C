@@ -154,3 +154,18 @@ Encrypted form of string: uijt!jt!nf
 
 Decrypted from of string: this is me
 ```
+23. Write a program that defines a struct called Student with the following fields:
+- char name[50]
+- int age
+- float gpa
+Then, create a function to print the details of the student and test it with at least two different students.
+Output Eg:
+```
+Name: John Doe
+Age: 20
+GPA: 3.75
+
+Name: Jane Smith
+Age: 22
+GPA: 3.90
+```
