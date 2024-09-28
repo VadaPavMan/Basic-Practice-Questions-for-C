@@ -226,3 +226,5 @@ The model name: Honda Civic
 The year of launch: 2020
 The price: $20000.20
 ```
+26. Simple Text Writer:
+Write a C program that prompts the user to enter a string and writes that string into a file named output.txt. If the file already exists, it should be overwritten.
