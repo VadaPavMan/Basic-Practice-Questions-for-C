@@ -4,7 +4,7 @@
 
 int main()
 {
-    FILE *ptrfile = fopen("user_info.txt", "a");
+    FILE *ptrfile = fopen("asset//user_info.txt", "a");
 
     char user_name[100];
     int user_age, prompt = 1;  // Initialize prompt
