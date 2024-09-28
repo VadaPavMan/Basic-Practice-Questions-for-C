@@ -1,0 +1,15 @@
+Name: Harsh
+Age: 21
+Email: vadapav@gmail.com
+
+Name: Landeshver
+Age: 19
+Email: landeshver@yahoo.com
+
+Name: Example
+Age: 69
+Email: example@gmail.com
+
+Name: Egg
+Age: 33
+Email: eggcracker@gmail.com
