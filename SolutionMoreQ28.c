@@ -5,7 +5,7 @@
 
 int main()
 {
-    FILE *ptrlog = fopen("log.txt", "w");
+    FILE *ptrlog = fopen("asset//log.txt", "w");
 
     time_t current_time = time(NULL);
 
