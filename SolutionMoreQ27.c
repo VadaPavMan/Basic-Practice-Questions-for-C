@@ -13,9 +13,9 @@ int main()
     while (prompt != 0)
     {
         printf("Enter Name: ");
-        scanf("%s", user_name);  // No need for &
+        scanf("%s", &user_name);  // No need for &
         printf("Enter Email: ");
-        scanf("%s", user_email);  // No need for &
+        scanf("%s", &user_email);  // No need for &
         printf("Enter Age: ");
         scanf("%d", &user_age);
 
