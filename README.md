@@ -236,3 +236,5 @@ Name: [user name]
 Age: [user age]
 Email: [user email]
 ```
+28. File Logger:
+Write a C program that logs the current date and time into a file named log.txt every time the program runs. If the file exists, it should overwrite the old log with the new one.
