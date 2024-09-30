@@ -228,3 +228,11 @@ The price: $20000.20
 ```
 26. Simple Text Writer:
 Write a C program that prompts the user to enter a string and writes that string into a file named output.txt. If the file already exists, it should be overwritten.
+
+27. Save User Input:
+Create a program that asks the user for their name, age, and email address, then writes this information into a file named user_info.txt in the following format:
+```
+Name: [user name]
+Age: [user age]
+Email: [user email]
+```
