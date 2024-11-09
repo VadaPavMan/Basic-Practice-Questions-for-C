@@ -238,3 +238,11 @@ Email: [user email]
 ```
 28. File Logger:
 Write a C program that logs the current date and time into a file named log.txt every time the program runs. If the file exists, it should overwrite the old log with the new one.
+
+29. Employee Info:
+Write a C program that takes input from user about the name and salary. Then store the provided information in the .txt file named Employee.txt. Note: Make Sure The File Mode is on Append.
+Format:
+```
+Name: [employee name], Salary: [employee salary]
+Name: [employee name], Salary: [employee salary]
+```
